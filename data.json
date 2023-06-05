@@ -1,0 +1,27 @@
+[
+
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "releaseYear": 2008,
+    "genre": "Action"
+  },
+  {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "releaseYear": 1999,
+    "genre": "Drama"
+  },
+  {
+    "title": "New Movie 1",
+    "director": "New Director 1",
+    "releaseYear": 2022,
+    "genre": "Comedy"
+  },
+  {
+    "title": "New Movie 2",
+    "director": "New Director 2",
+    "releaseYear": 2023,
+    "genre": "Adventure"
+  }
+]
